@@ -1,0 +1,10 @@
+{
+  "endPoint": " https://sandbox-b2b.revolut.com",
+  "clientId": "DO STUFF HERE",
+  "redirectUri": "https://127.0.0.1:3000",
+  "token": {
+    "privateKeyName": "./privateKey.pem",
+    "issuer": "127.0.0.1"
+  },
+  "accessToken": "oa_sand_vk4ZtjdHSD72eir5Gf5DKYZ4HaBwJWgrRIujrML6Tvw"
+}
