@@ -7,7 +7,7 @@ const app = express(),
   server = { app };
 app.use(express.static("public"));
 
-app.get("/", (req, res, next) => {
+app.get("/", (req, res, next) => { // eslint-disable-line no-unused-vars
   "use strict";
   const code = req.query.code;
 
